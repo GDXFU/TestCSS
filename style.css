@@ -6,12 +6,9 @@
 */
 
 body{
-    background-color: blueviolet;
+    background-color: rgb(196, 186, 204);
     color: #555;
 
-    font-family: Arial, Helvetica, sand-serif;
-font-size:16px;
-font-weight: normal;
 
 font: normal 16px Arial, Helvetica, sans-serif;
 
@@ -26,28 +23,25 @@ margin:0;
 
 .box-1{
     background: color #333;
-    color:#fff
+    color:#fff;
 
     border-right:5px red solid;
     border-left:5px red solid;
     border-top:5px red solid;
-    border-bottom:5px red solid 
+    border-bottom:5px red solid;
     border-width:3px;
     border:bottom-width 10px;
     border-top-style:dotted;
 
-    border:5px red solid
+    border:5px red solid;
 
     padding-top:20px;
     padding-bottom:20px;
     padding-right:20px;
-    padding-left:20px
-
-    #same as above#
-    padding:20px;
+    padding-left:20px;
     
     margin-top:20px;
-    margin:20px
+    margin:20px;
 }
 
 .box-1 h1{
